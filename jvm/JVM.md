@@ -1,13 +1,3 @@
----
-title: JVM 学习笔记
-tags: JVM
-categories: JVM
-cover: 'https://cdn.jsdelivr.net/gh/ChanServy/CDN2@master/head/java.png'
-sticky: 8
-abbrlink: 2832810133
-date: 2021-11-27 22:14:18
----
-
 本博客是根据[**解密JVM【黑马程序员出品】**](https://www.bilibili.com/video/BV1yE411Z7AP)教学视频学习时，所做的笔记。
 
 ## 1. 什么是 JVM
